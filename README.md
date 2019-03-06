@@ -1,6 +1,7 @@
 # Welcome to Fight Club game
 
-## Run
+## Hhow to run ?
+
 ### From IDE
 Run this class com.puzzle.game.FightClubApplication as Java Application
 
